@@ -1,4 +1,4 @@
-Olá! Eu sou o Pedro Oliveira 👋
+### Olá! Meu nome é Pedro Oliveira!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-oliveira-de-santana" target="_blank">
@@ -6,13 +6,13 @@ Olá! Eu sou o Pedro Oliveira 👋
   </a>
 </p>
 
-Estudante do 6º semestre de Ciência da Computação, com foco principal em Inteligência Artificial, Machine Learning e Ciência de Dados.
+Sou um Estudante do 6º semestre de Ciência da Computação, com foco principal em Inteligência Artificial, Machine Learning e Ciência de Dados.
 
-Minha experiência anterior em Comércio Exterior me deu uma visão analítica e proativa, onde automatizei rotinas fiscais e operacionais usando Excel. Agora, estou 100% focado em aplicar essa mentalidade de resolução de problemas no mundo da tecnologia.
+Minha paixão por tecnologia nasceu na prática. Em uma experiência anterior em Comércio Exterior, vi que podia otimizar o trabalho da equipe automatizando rotinas fiscais e operacionais com Excel. Aquilo despertou meu interesse e me fez mergulhar nos estudos. Hoje, estou focado em aplicar essa mesma mentalidade de resolução de problemas para construir soluções no mundo da tecnologia.
 
 
 
-Minhas Tecnologias:
+### Minhas Tecnologias
 
 <table>
   <tr>
@@ -29,6 +29,10 @@ Minhas Tecnologias:
       <br><strong>MySQL</strong>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+      <br><strong>Power BI</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
@@ -37,10 +41,11 @@ Minhas Tecnologias:
 
 
 
-Meus Projetos em Destaque
+### Meus Projetos em Destaque
 
-(Aqui você pode adicionar os links para seus projetos fixados)
-
-1.  [cite_start]**Analisador de Algoritmos (Java):** Sistema que compara tempos de execução de algoritmos clássicos (Bubble Sort, Merge Sort, Quick Sort)[cite: 86].
-2.  [cite_start]**Sistema de Criptografia (Python):** Aplicação com interface para cifragem e decifragem de mensagens com criptografia simétrica (AES)[cite: 85].
-3.  [cite_start]**Jogo Educativo (Java):** Jogo com foco em POO para aprendizado sobre meio ambiente[cite: 87].
+1.  **[Analisador de Performance de Algoritmos (Java)](https://github.com/PedroOliveiradeSantana/aps-ed-analise-algoritmos)**
+    * Sistema que compara tempos de execução de algoritmos clássicos (Bubble Sort, Merge Sort, Quick Sort), com leitura de arquivos e geração de gráficos.
+2.  **[Sistema de Criptografia com Interface (Python)](https://github.com/PedroOliveiradeSantana/aps-ipe-criptografia-aes)**
+    * Aplicação para cifragem e decifragem de mensagens com criptografia simétrica (AES), voltada para controle de acesso em áreas contaminadas.
+3.  **[Jogo Educativo com Interface Gráfica (Java)](https://github.com/PedroOliveiradeSantana/aps-lpoo-jogo-metropole-verde)**
+    * Desenvolvido com foco em Programação Orientada a Objetos, promove aprendizado sobre meio ambiente com interface visual interativa.
