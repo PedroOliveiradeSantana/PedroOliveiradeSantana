@@ -11,9 +11,7 @@ Sou um Estudante do 6º semestre de Ciência da Computação, com foco principal
 Minha paixão por tecnologia nasceu na prática. Em uma experiência anterior em Comércio Exterior, vi que podia otimizar o trabalho da equipe automatizando rotinas fiscais e operacionais com Excel. Aquilo despertou meu interesse e me fez mergulhar nos estudos. Hoje, estou focado em aplicar essa mesma mentalidade de resolução de problemas para construir soluções no mundo da tecnologia.
 
 
-
 ### 🚀 Minhas Tecnologias
-
 
 <table>
   <tr>
@@ -30,7 +28,7 @@ Minha paixão por tecnologia nasceu na prática. Em uma experiência anterior em
       <br><strong>MySQL</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+      <img src="httpshttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_BI_logo.svg/512px-Power_BI_logo.svg.png" width="48" height="48" alt="Power BI" />
       <br><strong>Power BI</strong>
     </td>
     <td align="center" width="96">
