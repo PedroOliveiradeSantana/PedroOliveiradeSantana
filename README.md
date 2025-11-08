@@ -24,12 +24,12 @@ Minha paixão por tecnologia nasceu na prática. Em uma experiência anterior em
       <br><strong>Java</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br><strong>MySQL</strong>
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br><strong>C++</strong>
     </td>
     <td align="center" width="96">
-      <img src="httpshttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_BI_logo.svg/512px-Power_BI_logo.svg.png" width="48" height="48" alt="Power BI" />
-      <br><strong>Power BI</strong>
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><strong>MySQL</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
