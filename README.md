@@ -1,4 +1,4 @@
-### Olá! Meu nome é Pedro Oliveira!
+### Olá, Meu nome é Pedro Oliveira!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-oliveira-de-santana" target="_blank">
