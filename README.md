@@ -39,6 +39,7 @@ Minha paixão por tecnologia nasceu na prática. Em uma experiência anterior em
 </table>
 
 
+
 ### Meus Projetos em Destaque
 
 1.  **[Analisador de Performance de Algoritmos (Java)](https://github.com/PedroOliveiradeSantana/aps-ed-analise-algoritmos)**
